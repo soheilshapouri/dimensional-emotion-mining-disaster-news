@@ -1,0 +1,301 @@
+id,split,V,A,D,text,V_GPT,A_GPT,D_GPT
+Nathans_Bylichka_36586_36605,train,3,3.2,3,‘What did you say?’,5,6,7
+wsj_2465_3811_3880,train,2.44,3.56,2.67,The struggle against the drug lords in Colombia will be a near thing.,3,6,4
+Uprooted_Farming-on-Sand_4903_4921,test,3.2,2.9,3,would be heathier.,5,1,5
+Nathans_Bylichka_55435_55533,train,2.62,3.5,2.63,"The blade lodged in the wood, its silver point penetrating the velvet and nearly reaching my skin.",2,7,3
+NYTnewswire5_1262_1329,train,3,2.9,3.1,"When young, the flavor is relatively mild, with a fresh, sour note.",6,2,5
+hotel-california_30229_30259,test,3,2.8,3,"“She doesn't drink, remember?”",5,3,3
+Ant_Robot_36734_36816,train,3.09,2.55,3,"Younger ants work more inside the nest, and older ants work more outside the nest.",5,2,5
+Ant_Robot_8373_8595,test,3,3.3,3.1,"The sonar will constantly be detecting nearby objects and initiate an escape maneuver when their inputs pass a certain threshold of stimulation, and the bump sensors will, when depressed, also initiate the escape function.",5,3,7
+Bartok_22435_22598,train,3,3,3,"It is worth pointing out that the arrival on G at measure 425 is led into by D, which constitutes another “filling in” of the whole-step by the intervening fourth.",5,3,5
+Anti-Terrorist_2032_2130,train,2,3,2.8,"The fact is, Bush policies have failed completely even to diminish terrorism, much less defeat it.",2,5,7
+WhatToHongKong_7521_7539,train,3,2.54,3,China (Porcelain).,5,1,5
+20000410_nyt-NEW_1374_1422,train,3,2.71,3,Hall is to return to Washington on April 22.,5,5,5
+Nathans_Bylichka_41518_41558,train,3.8,3.8,3,"She laughed, liquid, alluring, alarming.",6,7,6
+hotel-california_2436_2488,train,3,2.7,3.3,(I reserved the right to revise this opinion later.),5,3,5
+captured_moments_24517_24546,dev,3.37,3,3.27,"""She thinks you are a genius.",8,5,6
+HistoryLasVegas_15575_15783,train,3.29,3.29,3.14,He bought several Strip properties — the Silver Slipper and Castaways among them — and demolished them to make way for a new kind of resort — Mirage —  which became an instant success.,7,5,8
+captured_moments_32472_32484,train,3.5,3.12,3.12,"""Very well.""",5,3,5
+defenders5_862_976,train,2.6,3.2,2.9,"But they did, overriding Governor Tony Knowles’ veto — and ignoring the will of the majority of Alaska’s citizens.",1,7,8
+easy_money_6556_6680,train,2.4,2.9,2.6,"I was having serious cash flow issues back then and had payments to make, so I said, ""yes,"" but my patience was running out.",3,6,3
+SemEval_1322,train,3.14,3.29,3,Malaysia aggressively wooing tourists,6,6,7
+captured_moments_18970_19035,train,3.1,3.3,3,"""A great artist will grace this world, then?""",7,5,6
+hotel-california_23897_23916,train,3,3,3,I hazarded a guess.,5,3,3
+NWF1_3284_3432,train,3.1,3.1,3.1,Our magazine is a great way to stay informed on the current issues affecting wildlife and see what NWF is doing to find solutions to these problems.,8,3,6
+lw1_2047_2206,train,3,2.88,3.12,"She watched the psi bob her head, unaware of the rest of the bridge, shaking blonde curls as she chattered away with the approaching psi relay on Mason's ship.",5,3,3
+NYTnewswire5_1031_1103,train,3.3,3.3,3.3,"Right now, some particularly nice ones are in Bay Area farmers' markets.",7,3,5
+Black_and_white_7585_7779,test,3.2,3,3.5,"We have superceded both the ‘brown’ of decadence and classiscm and the ‘blue’ of divisionism, the cult of the blue ky, the gods with green beards and the spectrum.",5,5,9
+WhereToHongKong_2939_3090,dev,3,2.5,3.5,"The rival Hong Kong and Shanghai Bank is by architect Norman Foster; built on a “coathanger frame,” its floors hang rather than ascend.",5,5,5
+sucker_2600_2655,train,2.88,3,2.88,I wonder why they didn't present their books as novels.,5,3,3
+HistoryLasVegas_1512_1663,train,3.25,2.88,3.25,"Far more progressive than the Archaics, the Anasazi utilized such formal agricultural techniques as irrigation to assist their harvest.",5,3,6
+A_defense_of_Michael_Moore_10681_10849,train,3,3,3,The NRA was fully aware of the scandal it would cause through its rally and decided to push on because they believed to have enough media support to successfully do so.,2,6,8
+The_Black_Willow_8012_8120,train,3.12,3.25,3.12,"""You might find that some time in an honest occupation would ground you somewhat, improve your disposition.""",3,3,7
+Ohio_Steel_17349_17457,train,2.7,2.9,3.1,"Two blocks over one finds Boardman, a well-off township with a reputation for rich but unsuccessful schools.",5,3,5
+wwf12_3287_3399,train,3.5,3.3,3.6,"However, I’m confident that by joining together again, we can make exciting progress in the year ahead.",8,6,7
+defenders5_2829_2926,test,2.6,3.4,2.8,"And if history is any guide, over the years thousands of Alaska’s wolves will be brutally killed.",1,7,2
+guidedogs1_1952_1996,dev,3,3,2.8,A world I thought I would never have again.”,3,6,2
+Uprooted_Bike_4316_4386,dev,3.3,3.2,3.2,Bikes are cheap: you can get one at your local thrift store for $5-50.,6,3,5
+littleshelter2_1082_1205,train,2.6,3.1,3,"homeless animals that would otherwise die if Little Shelter didn’t provide the care, treatment and love these animals need.",3,7,2
+appalachian1_5690_5839,train,3.44,3.22,3.44,Pursue your special interests or prepare yourself for a variety of recreational activities and/or conservation projects by attending an AMC Workshop:,7,3,6
+SemEval_717,train,3,2.9,3,Passing exchange becomes political flashpoint,5,6,5
+Tupelo-Honey-Cafe_2324_2535,train,3.2,3.1,3.2,"The potatoes were light and un-greasy; the flavors were perfectly balanced; the chicken was juicy and rich; and let's be honest here, I'm always happier eating dead animals when I know they've lived a good life.",8,3,5
+Ohio_Steel_5842_5990,dev,2.6,3,2.9,"The announcement of the closing of the mills in 1977 was the beginning of a downward spiral, which would send the entire valley into chaos and ruin.",1,7,2
+Homosexuality_3259_3549,train,2.9,3.2,3,"He became known as one of the founding fathers of sexology, and furthered this position when he opened the world’s first sexological institute, the institute for Sexual Science in Berlin, in 1919, which was destroyed by the Nazis 15 years later.",3,5,7
+SemEval_24,train,3.1,3.2,3.1,Hurricane Paul Weakens To Tropical Storm,5,5,5
+detroit_13598_13622,train,3.4,3.9,3.3,The dark horse rides on!,5,6,7
+SemEval_967,train,3.7,3.6,3.1,Blog: Here come the Globes!,5,5,5
+110CYL068_1475_1558,train,3.6,3.3,3.8,Coming to Goodwill was the first step toward my becoming totally independent.,8,6,7
+blog-monastery_3154_3251,train,3,2.75,2.92,She said philosophy and epistemology were doing it right: looking at experiences from the inside.,5,3,5
+wsj_1640_2151_2462,dev,2.9,2.6,3.2,"One expert, whose job is so politically sensitive that he spoke on condition that he wouldn't be named or quoted, said the expected influx of East European refugees over the next few years will greatly increase the chances of computer-maintenance workers, for example, doubling as foreign spies.",3,5,5
+captured_moments_27535_27560,train,3.5,3.12,3,""" --was kindly received,""",7,3,3
+SemEval_78,test,1.57,3,2.57,"Bangladesh ferry sinks, 15 dead",1,7,5
+The_Black_Willow_7386_7535,train,2.6,3.1,3,"It's hard enough listening to your wild speech without seeing it appear in the refined world of print, like a surly foreigner among a genteel crowd.""",2,6,3
+detroit_13509_13515,train,3,3.09,3,China?,5,5,5
+Fermentation_Eminent-Domain_4213_4252,train,3,2.83,3.33,They legally could...if they wanted to.,5,3,5
+wsj_0157_474_649,train,3.1,2.7,2.9,"The El Paso, Texas, maker of Western boots and leather accessories said the preferred stock would accrue dividends at a 12% rate, but wouldn't be paid for the first two years.",5,3,5
+Nathans_Bylichka_45828_45925,train,2.8,3.2,2.9,"She gasped and the dark glow went out, taking the blood with it in a flash of heat and red steam.",3,7,2
+NYTnewswire9_2095_2260,train,2.64,3.18,2.91,"Japan surrendered within days of the detonation of the atomic bombs that killed 140,000 people in Hiroshima on Aug. 6, 1945, and 70,000 in Nagasaki three days later.",1,6,6
+wsj_0120_1962_2091,train,3.2,3.1,2.9,"But much contemporary work is also fetching ""a great deal of money,"" says Miles Barth of the International Center of Photography.",5,5,5
+Black_and_white_12046_12299,train,3,3.11,3.11,"The same goes with white walls, in their impeccability it proved to whoever, that the owner could afford to not live actually live in this space, or could afford more simply for the upkeep and constant fresh coats of paint.",5,3,6
+112C-L016_1118_1197,train,3,3,3.14,We would like to have families matched with sponsors non later than xxxx.,5,3,5
+SemEval_1339,train,3.5,3.4,3.2,Malaysia launches tourism campaign,5,3,5
+hotel-california_137_227,train,2.43,3.14,2.86,"So when my shuttle malfunctioned and the airlocks didn't keep the air in, I heard nothing.",1,7,2
+Nathans_Bylichka_3531_3576,train,3.8,3.8,3.5,Even the city feels alive when spring comes.”,8,6,5
+blog-new-year's-resolutions_3742_3818,train,3,3.1,3.2,The people who believed that self-control is fixed were unaffected by order.,5,3,5
+A_defense_of_Michael_Moore_8943_8965,train,3,3,3,3) Denver NRA meeting.,5,5,5
+NYTnewswire9_6892_6994,train,2.8,2.8,2.7,Not until the day before Tibbets and his crew flew to Hiroshima was the 509th told what was happening.,3,5,5
+blog-monastery_2160_2165,train,3,2.7,3,"""So,""",5,3,5
+audubon1_6107_6133,dev,3.22,3,3.11,Audubon restores wetlands.,7,3,7
+HistoryLasVegas_1664_1837,train,3.1,2.9,3,This permitted the Anasazi to achieve a benchmark of advanced society — the ability to live in permanent shelters year-round without need to follow wildlife.,6,3,6
+cable_spool_fort_217_327,train,3,2.9,3.1,"Roy stooped to pick up a big, white caliche rock that looked like a dirty lump of chalk and handed it to Chad.",5,3,3
+defenders5_5906_5924,train,2.9,3.2,3.4,“get-out-the-vote”,5,5,5
+The_Black_Willow_9289_9344,dev,3,3,3.22,"""how goes life for the quintessential American author?""",5,3,5
+blog-monastery_2568_2593,train,3,3,3,Knowing and understanding,6,3,5
+WhatToHongKong_3808_3826,train,3,2.86,2.86,Department Stores.,5,3,5
+cable_spool_fort_4980_5025,dev,2.9,3.4,3.3,"Time out!"" Chad called, ""We're not ready yet.",5,6,7
+NYTnewswire9_136_158,train,3.38,3.12,3.12,A mission to end a war,5,7,8
+WhatToHongKong_22398_22476,train,3.1,3.3,3.4,All levels of society share a feverish interest in the Sport of Kings.,5,7,6
+hsus4_6321_6361,train,2.8,3,3.2,Registration does not imply endorsement.,5,3,5
+wsj_0167_593_751,train,2.38,2.88,2.62,"For the nine months, the company reported a net loss of $608,413, or 39 cents a share, compared with year-earlier net income of $967,809, or 62 cents a share.",2,3,5
+117CWL008_49_144,train,3,2.86,3,"Join us for the ""Sale of the Century"" at JCC Auction '99, on Saturday, November 13, 1999.",7,5,5
+NYTnewswire6_6219_6376,test,3,3.1,2.8,"In the same vein, Gras is tweaking her salade nicoise, and Jeanminette is adapting her mousse au chocolat to become a spectacular six-layer pecan marjolaine.",7,3,5
+Nathans_Bylichka_10078_10146,train,2,3.67,3.5,"I have to warn you, though, you won’t like what I have to tell you.”",3,6,7
+Ant_Robot_19851_19916,train,3,2.88,3,A few sub-behaviors will be necessary for more than one behavior.,5,3,5
+hotel-california_30009_30043,train,2.38,3.5,2.75,"“That doesn't answer my question,”",3,5,6
+captured_moments_30047_30079,train,2.8,2.6,2.8,She had no choice but to follow.,3,4,2
+114CUL058_1015_1184,train,3.29,3.43,3.14,"This event is designed to be fun for campers, their families, friends of the camp, neighbors, staff, and anyone interested in finding out more about Jameson.",8,5,5
+detroit_13144_13216,train,2.7,3.4,2.9,"Are we just mercenaries for big oil, not liberators spreading ""Freedom""?",2,7,3
+blog-new-year's-resolutions_4562_4750,train,3,2.7,3,"The resolutions made by participants across all conditions were qualitatively similar (take a look at any list of popular New Year's resolutions, and you'll see the majority of the goals).",5,3,5
+hotel-california_30620_30693,test,2.38,3.25,3.62,"“If you dislike this place so much, why don't you do something about it?”",3,6,7
+NYTnewswire4_138_157,train,3.2,3.2,3.4,Vandy has big plans,5,5,7
+116CUL032_1212_1431,test,3.44,3.11,3.11,"Recently, through a lot of hard work and alliances with organizations like yours, some steps have been taken in our community that will help young people continue to be involved in positive activities.",8,3,6
+Bartok_15506_15606,train,3.14,2.86,3.14,"The second theme is tranquil and harmonically simple, which is in stark contrast to the first theme.",6,2,5
+The_Black_Willow_13853_13952,train,2.44,3.22,3.22,"""do you disregard them all and return to this superstitious babble, this morbid, paganistic drivel?",2,6,7
+hotel-california_19518_19688,train,2.6,2.9,2.9,"How long until all you remember is this, the ship, the thick red carpeting, the chandeliers, the empty conversations you hold with the other shells who used to be people?",2,6,2
+appalachian1_5401_5622,train,3.7,2.9,3.4,"Last year more than 1,000 members contributed more than 70,000 hours to our challenging and rewarding pro bono activities, in cooperation with state and municipal agencies, and other nonprofit groups that share our goals.",8,5,7
+hotel-california_3281_3300,train,3,3.2,3,You do this a lot?”,5,4,3
+appalachian1_3681_3829,dev,3.3,3.3,3.2,"Shouldn’t you canoe and hike along the Deerfield, Connecticut, and Androscoggin Rivers—seeing some of the Northeast region’s most beautiful scenery?",8,5,3
+114CUL057_1401_1475,train,3.5,3.5,3.38,"Simply fill out the enclosed card, and we will see you at the Grill!",7,3,5
+SemEval_200,train,2.43,3,2.86,"5,000 flee plant fire",2,8,2
+NYTnewswire7_4776_4932,train,2.9,3.1,2.9,"Rod Moore, executive director of the West Coast Seafood Processors Association, suggests that activists with an agenda are manipulating chefs and retailers.",3,5,7
+NYTnewswire9_7480_7563,train,3.1,2.7,2.8,Tibbets got the word only an hour from Hiroshima that the city's weather was clear.,5,5,5
+NYTnewswire6_8795_8815,train,3.8,3.3,3.1,"I love butter, too.""",8,3,5
+NYTnewswire5_1927_1988,train,3,2.86,3.14,"It also appears in stir-frys, especially those based on pork.",5,3,5
+captured_moments_32080_32131,train,2.8,3,2.8,"I merely said, ""Is Tasha here?""",5,3,3
+110CYL071_899_985,train,3.6,3,3.2,"After three interviews, Michael proved that he was the right person for the job.",8,5,8
+WhereToHongKong_55737_55860,train,3.29,3,3.14,"Seac Pai Van Park, on the west coast of the island is an interesting natural preserve with aNatural History Museum.",6,3,5
+Nathans_Bylichka_11272_11342,train,2.78,2.89,3.22,"Their bumpers looked ready to drop off, and their paint was half smog.",3,3,3
+Black_and_white_13858_14101,dev,2.9,2.8,3,"“In the prevailing styles of the European bourgeoisie, there long survived a tendency to limit the use of color, with strong emphasis on what are generally thought of as non colors, such as white, black and gray”",5,3,5
+Nathans_Bylichka_57787_57877,dev,3,3.29,3.14,I pulled the vial of liquid that he’d been giving me from his pocket and ran to the altar.,3,7,3
+Fermentation_HR5034_8628_8718,train,3,2.75,3,Judges merely tell the state when they have reached beyond what the 21st Amendment allows.,5,5,5
+anth_essay_4_6633_6825,train,2.9,2.9,3.2,"This results in part from the ingrained influences of Spanish colonialism: Spanish continues to be associated with modernity and social mobility, whereas Maya is seen as backward and inferior.",2,5,3
+IntroDublin_4637_4896,test,3.43,2.57,3,"And in this city, where literature and theater have historically dominated the scene, visual arts are finally coming into their own with the new Museum of Modern Art and the many galleries that display the work of modern Irish artists.",7,3,6
+SemEval_126,train,2.5,2.83,2.66,College tuition continues climbing,2,5,5
+WhatToHongKong_13917_14039,train,3,2.9,3.1,"There are more than 30 cinemas in Hong Kong, and the latest Western releases are shown in some of the larger ones.",5,3,5
+wsj_0120_1637_1772,test,3.1,2.9,3.1,"Corporations and museums are among the serious buyers, giving greater market stability, says Robert Persky of the Photograph Collector.",5,3,5
+wsj_0167_399_545,train,2.82,2.82,2.91,"RMS said it had a loss of $158,666, or 10 cents a share, in the third quarter, compared with a year-earlier loss of $26,956, or two cents a share.",3,3,5
+SemEval_1084,dev,3,3.1,3.2,Experts issue new heart disease guidelines for women,5,5,5
+captured_moments_11037_11044,train,3,2.8,3,Then --,5,3,5
+Madame_White_Snake_3871_4094,train,3.1,3.2,2.9,"In “Eternal Prisoner,” Madame White Snake’s bewitching beauty follows her lover Hsü into his dreams, and the next morning “he was so distracted that he could not concentrate on doing business.”",5,5,3
+Nathans_Bylichka_28138_28159,train,3.5,3.5,3.3,"“A marvel, isn’t it?”",8,5,5
+hotel-california_24439_24514,test,3,3.1,3.3,"From the looks on my companions' faces, I knew they were thinking the same.",5,4,4
+SemEval_742,train,2.22,3.56,2.89,Floods force Malaysia evacuations,2,7,7
+cable_spool_fort_3900_3970,dev,3.22,2.78,2.89,"Pop said, ""The doctors have put something very special in Roy's brain.",5,6,6
+aspca1_1555_1624,train,2.67,2.78,2.78,"The officers knelt down slowly, speaking gently to the emaciated dog.",7,3,2
+SemEval_903,train,2.1,3.5,2.9,Iran to strike US interests if attacked,2,8,8
+warner1_34_102,train,3,2.8,2.7,"Time Warner Cable120 East 23rd Street New York, NY 10010",5,1,5
+HistoryLasVegas_11710_11939,train,3,3.11,3.44,"Freely flowing “comps” (complimentary food, drink, and entertainment) were the order of the day, with mob bosses content to provide an environment of pleasurable excess as long as the cash kept rolling in.",6,6,6
+captured_moments_3950_3990,train,3.5,3.2,2.9,"""It's beautiful, isn't it, Señor Flynn?""",8,5,5
+SemEval_1048,train,3,2.7,2.9,Iran top N-envoy heads for Vienna for nuke talks,5,6,7
+NYTnewswire4_3801_3840,dev,1.9,3.2,3.3,"""I don't want to talk about that game,""",3,3,3
+cable_spool_fort_5999_6005,dev,3,4.1,3.2,Penis!,5,5,5
+The_Black_Willow_20177_20324,train,3,3.1,3,"Instead, he bethought himself of the loss of the tree; considered also Arthur's motivation and whether some good might not come of this, after all.",5,3,3
+hotel-california_31244_31446,train,3,2.56,2.78,"Times like that, running on less sleep than I should, alone because everyone else had had the sense to retire for the night, I had a tendency to get all meditative about the universe and my place in it.",5,2,3
+SemEval_1370,test,3.43,3.14,3,Siestas may cut heart disease risk,7,3,5
+Nathans_Bylichka_37816_37828,train,2.22,3.78,3,he screamed.,3,7,3
+112C-L015_325_413,train,2.7,2.9,2.8,And this time of year is an occasion to remember those not as fortunate as we are.,6,3,3
+wsj_0172_501_639,train,2.7,2.8,2.9,"Kalamazoo, Mich.-based First of America said it will eliminate the 13 management positions of the former Midwest Financial parent company.",5,3,5
+Seedbombing_6528_6555,test,3.8,3.3,3.3,It makes me a little nicer.,6,3,3
+113CWL018_227_287,train,3.11,3,3.11,That's where the Boys & Girls Clubs of Indianapolis come in.,6,5,5
+SemEval_1190,train,2.88,3,3,Portugal to vote on abortion laws,5,5,5
+NYTnewswire9_10662_10775,train,3.12,3.13,3.25,"In his heart, he holds the unshakable conviction that the mission he helped organize saved America from disaster.",7,5,8
+NYTnewswire1_1746_1763,train,2.7,3.2,3.3,The answer is no.,3,5,8
+sucker_1739_1918,train,2.38,3,2.88,"The end result of such roundtables, one can only fear, could be that the only books depicting people of color that get published are those that do not challenge white assumptions.",2,6,3
+AMC2_1484_1664,dev,3.25,3.13,3.5,Now is your chance to get a great discount on Nature Walks in the New Hampshire Lakes Region—the latest addition to our Nature Walks series—and Nature Hikes in the White Mountains.,8,5,5
+blog-new-year's-resolutions_5175_5321,train,2.7,2.9,3.1,"If participants believed in limited self-control and were low in self-efficacy, they tended to give up more often, failing to achieve their goals.",3,3,3
+115CVL036_159_356,train,3.7,3.5,3.3,"We've worked hard to structrue the organization so that we've ready to move boldly into the next century, and I believe that we have an exciting and successful future ahead of us.",8,6,8
+easy_money_6714_6752,dev,3.2,3,3,The drive was shorter than I expected.,6,2,5
+Ant_Robot_6819_6935,train,3,2.7,3.4,"For the purposes of this proposal, I will assume that Antie has enough battery life to remain powered the whole day.",5,3,5
+Nathans_Bylichka_51787_51838,dev,2.33,3.33,2.33,"I turned to keep going, but he caught my arm again.",3,6,3
+detroit_15691_15847,dev,2.4,3.5,2.9,"*Or even Friend Salmon, who still haunts my dreams and tells me not to let us blow each other's asses off the earth until we clean up the mess we have made.",3,7,3
+captured_moments_14475_14602,train,3.4,3.2,3.3,"I had impressed her because I was famous and amusing and not, as I had hoped, because I was a great artist.",4,5,3
+602CZL285_1921_1931,test,3,2.71,3.14,Enclosures,5,3,5
+SemEval_236,train,3.78,3.56,3,"$10,000 poetry prize awarded",8,5,5
+audubon1_1867_1886,train,3.14,3.43,3.14,Can you believe it?,5,6,5
+audubon1_2036_2211,train,2.6,3.5,3.1,And if the death of two million birds doesn’t “prove” their theory -- and show a reduction in crop loss -- they’ll likely seek the right to kill even more birds the next year!,1,7,7
+hotel-california_20800_20818,train,2.7,2.9,2.9,"“Sorry,” said Ray.",5,3,2
+WhatToHongKong_5602_5613,train,3,3,3,What to Buy,5,3,5
+SemEval_1240,train,2.5,3,2.9,Serbia rejects United Nation's Kosovo plan,3,5,9
+Nathans_Bylichka_41559_41573,dev,4,4.1,3.4,"“Oh, precious!",7,7,2
+hotel-california_29625_29642,train,3,2.8,2.9,Jefferson nodded.,5,1,5
+Bartok_34_97,train,3,2.57,3.28,Tonal Structure and Form in Bartók’s Concerto for Orchestra (I),5,3,5
+SemEval_955,dev,3,3,3,Reclusive 'Mockingbird' author attends show,5,3,5
+Ant_Robot_18259_18351,train,3,3,3.2,There will be two individually operated motors to drive the two side wheels in lieu of legs.,5,3,5
+lw1_329_457,train,2.75,3.12,2.88,she suppressed the surge of annoyance that ran through her as she contemplated the psi's gift of getting all the hot news first.,3,4,3
+WhereToHongKong_7803_7974,train,3.2,3.2,3.1,"The Western District is one of Hong Kong’s oldest neighborhoods, and its narrow streets hold a collection of fascinating traditional shops and enterprises.",7,3,5
+SemEval_23,train,2.9,3,3.2,"Bush Insists Troops Stay in Iraq, Predicts Midterm Victory",3,6,8
+detroit_14948_15031,train,2.6,3.4,3.2,But here's the thing -- frogs are mutating due to the planet trying to kill itself.,2,7,3
+Nathans_Bylichka_10692_10759,train,2.3,3.5,2.8,"You see, Nathan, there is …separate from your society …oh, damn it.",3,5,3
+WhereToHongKong_64998_65234,train,3.3,3,3.2,"Because Shenzhen is much cheaper than Hong Kong, it is a popular weekend destination for Hong Kong’s Chinese, who come to relax, dine in its resorts, and play golf — Shenzhen hosted the World Cup of Golf in 1995.",7,3,5
+20020731-nyt_12747_12920,dev,3.1,3,3.1,"""If you get young officers, expose them to a military organization that is within a democratic political institution, such as the United States, then that rubs off on them,""",5,3,5
+112C-L016_1002_1117,train,3,2.88,3,"If you are interested and would like more information, please contact Lisa Lusk or Marcia Whited at 693-9222.",5,2,5
+lw1_1488_1540,train,3,3,3,She had the look of every leader she had ever known.,5,3,7
+SemEval_565,train,2.3,3.4,2.9,"Iraq car bombings kill 22 People, wound more than 60",1,8,6
+Homosexuality_18713_18778,train,3,3,3,"Homosexuality. Ed. William Dudley. San Diego: Greenhaven P, 1993.",5,1,5
+HistoryLasVegas_6414_6577,train,3.2,2.7,3.1,"In early 1905, the route between Los Angeles and Salt Lake City was completed, and train tracks bore right down the center of the Las Vegas Valley.",5,3,5
+NYTnewswire4_1293_1410,dev,3.6,2.9,3.2,"""Let me just say that three years ago when we scheduled that game, I was feeling pretty good about it,"" Johnson said.",5,4,6
+hotel-california_20008_20093,train,2.9,3.2,2.4,"I wanted to ask, but he was still talking, and I was too self-conscious to interrupt.",4,3,2
+Uprooted_Farming-on-Sand_2307_2439,train,2.62,3,3.12,"But haying had to happen regularly, says David: ""There's so much oxygen in this soil, any added compost gets burned up in six weeks.",5,3,5
+WhereToHongKong_63130_63246,train,2.9,3.1,2.9,The Cantonese love to eat and have the reputation of eating almost anything that walks on four legs.,5,3,5
+IFAW1_4231_4352,train,2.7,3.5,3.2,Please rush me your generous gift of $100 or $15 today while these endangered animals are on your mind and in your heart.,5,7,2
+Nathans_Bylichka_22348_22393,train,3.1,3.2,3.2,"“We’re here for information about a vampire,”",5,6,6
+SemEval_1090,train,3,3,2.9,Committee debates cancer vaccine plan,5,5,5
+sucker_2344_2366,dev,3,2.5,3.17,"March 3, 2008 11:20 PM",5,1,5
+SemEval_507,train,2.89,2.78,3,"Building a memorial to a son, one child at a time",3,3,3
+Homosexuality_2115_2228,test,3,2.5,2.9,"(However, for the purposes of this paper, homosexuality will be looked at solely in terms of men).",5,3,5
+SemEval_1416,train,2,3.43,3,"Mother, daughter stabbed near school",1,8,3
+116CUL033_1062_1241,train,3.3,3,3.2,It is our goal that every young person in Marion County have access to the programs and services that can best assist them in their growth toward a positive adulthood.,8,3,5
+IntroHongKong_2767_3013,test,3.1,2.7,3.1,"To alleviate the problem, the government has become the city’s major landlord with the construction of massive apartment blocks that, though they have every modern facility, average only 9 square m (100 square ft) in size.",4,5,5
+NYTnewswire8_1526_1684,train,3.1,3,3.1,"The APA has spent more than $1 million to help state psychological associations develop and lobby for such prescription privileges -- or ""RxP"" -- legislation.",5,5,5
+SemEval_220,train,2.9,2.7,3,Kentucky wants to ban alcohol inhalers,5,5,5
+Nathans_Bylichka_5672_5834,train,2.9,3.1,3,"The blue haze seemed to stop just shy of his pallor, setting off his striking face without illuminating its details, and his wrists flashed white in the darkness.",5,3,3
+audubon1_5731_5797,train,3.46,3,3.36,Audubon establishes and protects wildlife refuges and sanctuaries.,8,3,7
+defenders5_6164_6240,train,3.17,3.17,2.83,"Now, I’m hoping I can count on your moral and financial support again today.",5,5,3
+SemEval_1037,test,3.1,2.9,3,China: Cheney shores up the trilateral alliance,5,5,5
+blog-monastery_4427_4546,train,2.8,3.3,3.2,"""If there's something you can do, why are you unhappy? Just do it. If there's nothing you can do, why are you unhappy?""",6,3,7
+Bartok_12539_12727,train,2.9,2.7,3.2,"We have already mentioned that the first theme group is in F—this is made clear from the onset, both in the melodic line and by the F minor triad that occurs on the downbeat of measure 77.",5,3,5
+aspca1_3908_4000,train,3.37,3.25,3.25,Please help the ASPCA with your most generous gift today -- the animals are counting on you.,7,7,3
+IntroDublin_2957_3110,train,3.09,2.91,3,"Along the Liffey to the west is Temple Bar, center of nightlife and home to many of Dublin’s cutting-edge artists and artistic endeavors.",7,3,5
+captured_moments_35224_35270,train,2.9,3.2,3.1,Her clothes lay by the cube enclosing the bed.,5,2,5
+Ant_Robot_2970_3127,train,2.88,2.75,3,"Little is known about brood care, as this occurs only in the deepest regions of the nest and observation would generally require the destruction of the nest.",5,2,5
+Nathans_Bylichka_36794_36914,train,3.3,3.1,3.2,I thought back to one time when I’d been thinking about raising a family and remembered that I’d always liked the name –,5,3,2
+NWF1_3718_3825,train,3.1,2.6,2.8,"The tote bag is made of a strong, cotton material and has plenty of room, including a handy sewn-in pocket.",7,2,5
+wsj_0169_768_830,train,3.11,2.89,3.22,About 30% of Ratners's profit already is derived from the U.S.,5,3,5
+NYTnewswire1_1764_1816,train,3.4,3.1,3,He accepts his role with a club and he's a team guy.,7,3,5
+SemEval_1498,train,3.1,2.8,3.1,Study links chimps and 'hammers',5,3,5
+captured_moments_20876_20882,train,3.6,3,2.9,"""Good.",6,3,5
+captured_moments_8946_8952,test,3.29,3.57,3,Three!,5,5,5
+Homosexuality_339_434,train,2.9,2.8,3.1,Still more would claim that it is a mental illness that can and should be cured.,3,5,3
+Nathans_Bylichka_12486_12532,train,3,2.9,3.1,Then I looked down and saw what had let us in.,5,6,3
+detroit_14102_14214,test,2.9,2.9,3.3,"I don't think you present a fully-informed argument on the causes of urban decay, but I don't disagree with you.",5,3,5
+WhereToHongKong_53852_53918,train,2.86,2.71,3,The more abstemious can stick to Portuguese mineral water.,5,3,5
+NYTnewswire6_6824_6934,train,3.4,3.3,3.1,"Six-layer pecan marjolaine with Julia's coffee chocolate mousse, cocoa meringue, pecan crust and citrus sorbet",8,6,5
+A_defense_of_Michael_Moore_15717_15911,train,2.7,3,2.9,"The claims of deliberate distortion don't hold up when viewing the whole scene, though -- as ""Hanlon's Razor"" states, one should never attribute to malice what can be attributed to incompetence.",5,3,5
+Ohio_Steel_16782_16925,train,3,3,3.1,"People from each town work, shop, eat, and socialize in towns separate from their own, making each town strongly dependent on every other town.",5,3,5
+115CVL035_1201_1335,test,3.4,3.3,3.4,"The end result will be kids who have a better understanding of and vision for their own future, be it college or a career.",8,3,6
+WhatToHongKong_12637_12650,train,3.44,3.33,3.11,Entertainment,5,5,5
+20020731-nyt_38144_38339,train,2.43,3,3.28,"Zazzali and Long had expressed similar reservations in June 2001 when the court overturned the death sentence of Thomas J. Koskovich, who was 18 when he killed two pizza deliverymen in an ambush.",3,3,5
+blog-monastery_4494_4546,train,2.8,3.2,3,"If there's nothing you can do, why are you unhappy?""",3,3,6
+WhereToHongKong_62266_62454,train,2.88,2.62,3.12,"This small formerly residential island, beautifully shaded by banyan trees, was the home of the closed community of the foreign colony in the era of “concessions. ”",6,3,5
+cable_spool_fort_4221_4311,train,2.25,3.62,2.75,They all stood around while the doctor made Roy shake and jerk and moan with a sick sound.,2,7,2
+Nathans_Bylichka_47387_47415,test,3.62,2.88,3.25,“That was very kind of her.”,8,3,3
+Madame_White_Snake_6740_6867,train,3,2.9,3,"Her husband becomes a monk, and this further implicates Lady White Snake, this time from a Buddhist perspective.",5,5,5
+hotel-california_3868_3881,train,2.67,3,2.89,They didn't.”,3,5,3
+110CYL070_587_626,dev,3,3.4,3.1,Who has benefited from our partnership?,5,5,6
+SemEval_1007,train,2.75,2.88,3.25,"Iran says Sunnis, using Pakistan as base, planned fatal bombing",2,7,7
+IntroDublin_4287_4453,train,3.1,3.1,3.1,The city’s impact on the rock and pop music scene with the likes of U2 and Bob Geldof is well known — there’s even a self-guided tour of their haunts.,7,5,5
+easy_money_14142_14201,dev,2.5,3.2,2.8,I worried for just a moment when I started waving my hands.,4,4,2
+20020731-nyt_40175_40250,train,3,2.9,3.1,"The case was the subject of Joe McGinniss' best-selling book ""Blind Faith.""",5,5,5
+SemEval_564,train,3.3,3.3,3.2,Virtual 'American Idol' hits right notes,7,5,5
+112C-L015_1247_1334,train,3.55,2.91,3.27,A gift to Pleasant Run means the children in our care will have presents to open.,8,5,3
+blog-monastery_4360_4407,test,3,3,3.2,Compassion and anger were the session's topics.,5,5,5
+wsj_1640_182_323,train,2.86,3,3.14,That was the message delivered by government and private security experts at an all-day conference on corporate electronic espionage.,5,3,5
+wsj_0127_928_1005,train,2.44,3,2.89,"Earnings were hurt by disposal of operations in its restructuring, Reed said.",3,3,5
+cable_spool_fort_1931_1980,train,2.6,3.1,2.3,Chad wished he were old enough to be one of them.,5,3,2
+NYTnewswire1_1631_1745,train,2.9,3.2,3.1,"""From a realistic standpoint, were we going to find an outfielder that pushed one of our outfielders to the bench?",5,3,5
+116CUL034_18_33,train,3,2.7,3,"October 7, 1996",5,1,5
+115CVL035_676_981,train,3.5,3.4,3.2,"The centers that serve these areas, Mary Rigg Neighborhood Center, Hawthorne Community Center, Southwest Multi-Service Center, and Christamore House, have teamed up to run an exciting job readiness program for 14 and 15 year old area residents called the Summer Enrichment Program.",8,5,5
+NYTnewswire9_4804_4910,train,3,2.83,3,"Almost overnight, Wendover became a high-security base filled with off-limit areas covered in barbed wire.",3,6,7
+The_Black_Willow_4463_4529,train,1.9,3.8,2.8,"He pounded his desk in vain, cursing the foul muse that drove him.",2,7,3
+The_Black_Willow_6556_6753,train,2.71,3.29,3.14,"Every action you take to deny it nourishment will bring you closer to your goal; and believe me, Allan, you must take every opportunity to quash this uncivilized obsession if you intend to publish.",3,6,8
+Tupelo-Honey-Cafe_2974_3027,dev,3,2.9,3.2,"Take a few photos of the menu, the kitchen, the food.",5,3,5
+20020731-nyt_38836_39008,train,3,2.9,3,"Two of the court's members, Chief Justice Deborah T. Poritz and Justice Peter G. Verniero, did not participate in the Nelson case because both are former attorneys general.",5,3,5
+WhereToHongKong_41533_41607,train,3.1,3.1,3.2,"Its spin-off industries, prostitution and pawn shops, also thrive.",3,5,6
+20000410_nyt-NEW_568_743,train,2.6,3.1,2.9,"Iraq has been under economic sanctions since the war ended, which some say have thwarted the country's ability to recover from the devastation of the bombing campaign.",2,3,3
+Fermentation_Eminent-Domain_1311_1383,train,2.6,3,2.9,"County, consumers learn absolutely nothing about the wine in the bottle.",3,3,5
+hotel-california_17419_17462,test,3,3.1,2.9,Did you hear what the captain said earlier?,5,5,5
+captured_moments_12243_12538,train,2.5,3.3,2.8,"I want to pick up with Tasha and me walking about The Sleeping Flamingo, and then, for the sake of literary convenience, to say that from a corner of the yard I saw a neighboring house, and the sight filled me with darkest forebodings.",2,5,3
+lessig_blog-carbon_1023_1036,train,2.4,2.6,3,No such luck.,3,3,3
+Bartok_16857_17075,train,3.18,3.09,3.18,"As Paul Wilson states, the development “is, for Bartók’s music, developmental in a relatively conventional way”; the themes from the exposition are expanded and modified, and tonalities other than those expected arise.",5,3,5
+Tupelo-Honey-Cafe_2717_2782,dev,3.11,2.89,3.33,I stopped so I could take the rest home and taste it again later.,7,2,5
+aspca1_919_1034,train,3,2.86,3.14,I have sent you the enclosed complimentary name-and-address labels to call your attention to the work of the ASPCA.,6,3,5
+113CWL017_776_923,train,3.1,3.2,3,"In addition to the fun stuff, important life-skills such as self-esteem, leadership, and interpersonal cooperation are being developed.",8,5,6
+appalachian1_2386_2525,train,3,2.88,3,And we’re working with the National Park Service in upgrading the trail system in the Delaware Water Gap and Acadia National Park in Maine.,7,3,5
+wsj_0158_1126_1227,train,3.22,3.11,3.44,"""If I were choosing the people of tomorrow, I would have chosen the people who are now on the board,""",5,5,6
+hotel-california_23464_23517,train,3,2.6,2.8,"He dropped the pecans back into the dish, one by one.",5,2,5
+captured_moments_30724_30800,train,3,3,3,I muttered something he must have interpreted as assent.,4,2,2
+NYTnewswire1_4119_4221,train,1.6,2.9,2.5,"""Obviously I'm disappointed to go from a team playing for first place to a team that isn't contending.",3,4,3
+20020731-nyt_5551_5818,dev,3,2.82,3,"That information included witness statements, store receipts and other documents indicating that Chang had paid for expensive items given to Torricelli, his sister, one of his longtime aides, Roberta Stern, and one of Torricelli's former girlfriends, Judy D. Balaban.",3,5,5
+Ant_Robot_26480_26530,train,3,3,3,The first function might look something like this:,5,3,5
+captured_moments_8829_8859,train,2.75,2.88,3.12,"Why else would I come to you?""",3,6,7
+HistoryLasVegas_5049_5185,dev,3.62,3.25,3,"Through 1905, Helen Stewart expanded the ranch to 2000 acres (810 hectares), making quite a bit of money in the process.",5,5,7
+HistoryLasVegas_14433_14521,train,2.88,3.25,3,"Hughes’ actions would have beneficial repercussions, both immediate and lasting.",8,3,7
+detroit_10463_10549,train,2.6,3.3,3.1,"They lack the means to build her back to her former glory, but she won't be abandoned.",5,4,3
+SemEval_999,train,3.2,3.1,3.1,Glamour -- and 'Borat' -- at Golden Globes,5,6,5
+hotel-california_33775_33797,test,2.78,2.89,2.89,"Life boats, I thought.",5,5,3
+lw1_3116_3283,train,3,2.9,2.9,"His eyes had been treated and darkened to a rich purple to disguise the brilliant golden yellow color that would mark him as an Alpha Arrallin, and leader of his hive.",5,3,7
+captured_moments_18270_18325,train,3.6,3.8,3.2,He's had shows in Brazil and New Madrid and everywhere!,7,7,7
+NYTnewswire7_4938_5179,train,3,3,3.1,"The conservation groups providing information to chefs and retailers and lists of environmentally appropriate seafoods to consumers are the same groups working to affect fisheries management on the political and regulatory level, Moore said.",6,5,5
+Ant_Robot_13317_13447,train,3,2.89,3.11,"These will correspond to the muscles of the ant’s mandibles, which provide sensorimotor feedback to the ant when grasping objects.",5,3,5
+detroit_16938_17038,train,2.7,3.7,2.8,"I, too checked out a few listings for under $1,000 and was absolutely shocked at the property taxes.",3,6,3
+captured_moments_27217_27254,train,2.83,3.17,2.67,"It's not easy for me to ask a favor.""",4,4,3
+SemEval_1302,train,2.6,2.9,2.9,Gronholm ahead as Solberg crashes,3,7,7
+cable_spool_fort_5379_5504,train,2.4,3.1,2.9,"From painful experience, he knew it wasn't going to be as easy as just pretending he was too slow or too weak to do anything.",2,4,2
+110CYL069_18_35,train,3.1,3.1,3.1,"November 15, 1996",5,1,5
+Nathans_Bylichka_3597_3635,train,3.09,3.18,2.73,She waved down a car and pulled me in.,5,6,7
+Nathans_Bylichka_29927_29965,train,2.9,2.8,3.1,"“They take about a quarter-pint each,”",5,3,5
+easy_money_15725_15739,train,2.8,3.2,3.2,I out of here.,3,6,3
+warner1_311_454,train,3.63,3.63,3.45,"DTV—Digital Television from Time Warner Cable—is now available in your neighborhood, and we’d like you to be one of the first to experience it!",6,6,6
+wsj_1640_3364_3506,train,3.1,3,3,"Among the responses the Swiss trader got was one from the Soviet national shipping company, which hadn't been invited to submit a bid.",5,3,5
+117CWL008_145_299,train,3.56,3,3,"The 9th annual JCC Auction will benefit the numerous scholarship programs of the Jewish Community Center of Indianapolis, a United Way agency.",7,3,5
+Fermentation_Eminent-Domain_5438_5532,train,2.2,3.4,3.1,I still don't know whose interests are being served by this useless piece of crap legislation.,2,7,3
+Nathans_Bylichka_21286_21329,train,3,2.9,3,“We’d like to see a man about some garlic.”,5,3,5
+Nathans_Bylichka_44673_44708,train,3.55,3.45,3.09,"Amy leaned forward, looking amazed.",7,6,5
+SemEval_1272,train,3.5,2.9,3,"Siesta cuts risk of heart disease death, study finds",7,3,5
+SemEval_226,train,3.1,3,3,Yankee pitcher's pilot log found,5,5,5
+Nathans_Bylichka_44590_44632,train,3,2.86,3.14,Isis closed her eyes and lifted her hands.,5,3,5
+117CWL008_1187_1350,test,3.11,3.11,3.11,One of us will call you to discuss how your company can become an important highly visible partner with the JCC in support of our scholarship programs.,7,3,7
+Uprooted_Bike_139_226,test,3,2.9,3.4,"Come back Friday to read about anarchy, bike jousting, and two-wheeled social protest .",5,6,5
+Ohio_Steel_20091_20172,train,2.63,3.12,2.75,"Hundreds more joined the unemployment lines, or even began living on the streets.",1,7,2
+112C-L015_18_47,test,3,3.14,3,Dear Friends of Pleasant Run:,5,3,5
+Nathans_Bylichka_15386_15430,train,3.11,3,3.11,I waved goodbye to the hunchback as we left.,5,3,3
+Nathans_Bylichka_38604_38677,train,3.4,3,3.1,He held the door for me and Amy when we reached the bottom of the stairs.,7,1,3
+A_defense_of_Michael_Moore_6036_6100,train,2.7,3,2.8,"""Typically, you're looking at a week to 10 days waiting period.""",5,3,5
+A_defense_of_Michael_Moore_28503_28678,test,3.11,3.11,3.22,"His next project has the working title ""Fahrenheit 9/11: The temperature at which freedom burns"", and he intends to launch it shortly before the next US presidential election.",5,6,7
+20020731-nyt_4655_4679,dev,3.1,3.2,3,"""material and credible.""",5,5,5
+WhereToHongKong_10916_11084,test,2.67,3.11,3.11,"Just to the east of the financial district, Wan Chai was once an area of sleazy clubs and topless bars; this was the setting for The World of Suzy Wong.",5,3,5
+Madame_White_Snake_10983_11172,train,3.12,3,3,"She writes, “the final ‘lesson’ of the myth often fades into the background and we retain the image of the erotic, strong, unrepressed (if destructive) woman.”",5,5,6
+Nathans_Bylichka_13596_13672,train,2.9,3.3,2.8,“I …I noticed him from across the room when I was looking around for Rachel.,5,3,2
+marine1_1448_1698,train,3.75,3.5,3.5,"At a price nearly half off the regular membership dues, you will receive a host of member benefits (more on these in a moment)_and, far more important the satisfaction of actually doing something to improve the ocean world we pass on to our children.",8,5,5
+Nathans_Bylichka_7301_7316,train,2.82,2.91,3.18,…Rachel Frieze.,5,5,5
+Nathans_Bylichka_26890_26934,train,3,3.1,3.1,“but may I ask what is kept in these rooms?”,5,3,2
