@@ -5,4 +5,5 @@
 **news_merged1**: clean version of full news_data + GPT-harvested number of popele killed
 v2 means I removed article body from the dataset. 
 
-
+**news_merged2_v2**: GPT estimate of valence is added to the dataset. 
+v2 means I removed article body from my own versions of files. 
