@@ -3,4 +3,6 @@
 **news_data_full**: 8777 disaster-related news including headlines, URLs, etc. Raw data mined from standard API of thenewsapi.com 
 
 **news_merged1**: clean version of full news_data + GPT-harvested number of popele killed
+v2 means I removed article body from the dataset. 
+
 
